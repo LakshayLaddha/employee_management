@@ -38,5 +38,4 @@ A comprehensive Employee Management System built with Spring Boot, featuring JWT
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/employee-management-system.git
-   cd employee-management-system/employee-management-backend
+   git clone https://github.com/LakshayLaddha/employee_management.git
